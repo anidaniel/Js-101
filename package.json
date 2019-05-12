@@ -1,0 +1,11 @@
+{
+  "name": "intro_js",
+  "version": "1.5.2",
+  "description": "Introduction ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniruddha Prasad",
+  "license": "ISC"
+}
